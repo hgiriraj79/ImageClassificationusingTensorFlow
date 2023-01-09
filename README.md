@@ -3,10 +3,10 @@
 
 In this project I have made use of Tensor Flow to train model to recognize different images based on the data present in dataset. Following are the files that are included in this project:
 
-** Image Classification using Tensor Flow.ipynb **
+**Image Classification using Tensor Flow.ipynb**
 - This file contains the code which can be used to identify image
 
-** Folder datasets **
+**Folder datasets**
 - This folder is branched in the following way
 |_ new_images
   |_ cats
