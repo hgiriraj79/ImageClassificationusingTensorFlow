@@ -9,10 +9,10 @@ In this project I have made use of Tensor Flow to train model to recognize diffe
 
 **Folder datasets**
 - This folder is branched in the following way
-|_ new_images
-  |_ cats
-  |_ dogs
-|_ test_images
+1. new_images
+  1.1 cats
+  1.2 dogs
+2. test_images
 
 More folders can be added into the dataset with suffcient number of images for training
 
