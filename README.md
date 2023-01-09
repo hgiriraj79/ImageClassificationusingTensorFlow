@@ -3,6 +3,7 @@
 
 In this project I have made use of Tensor Flow to train model to recognize different images based on the data present in dataset. Following are the files that are included in this project:
 
+### Files
 **Image Classification using Tensor Flow.ipynb**
 - This file contains the code which can be used to identify image
 
