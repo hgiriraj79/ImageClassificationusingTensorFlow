@@ -1,5 +1,5 @@
 # Image Classification using Tensor Flow
-- The project demostrates how neural network can be used to train model and classify images using Tensor Flow
+### The project demostrates how neural network can be used to train model and classify images using Tensor Flow
 
 In this project I have made use of Tensor Flow to train model to recognize different images based on the data present in dataset. Following are the files that are included in this project:
 
